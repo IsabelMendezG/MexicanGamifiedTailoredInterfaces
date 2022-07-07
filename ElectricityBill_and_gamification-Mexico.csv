@@ -1,0 +1,985 @@
+﻿Location,entidad.1,Cost,energy.conscious,cost.oriented,early.adopter
+1,Aguascalientes,25,1,0,0
+1,Aguascalientes,25,1,0,0
+1,Aguascalientes,50,1,0,0
+1,Aguascalientes,50,1,0,0
+1,Aguascalientes,50,1,0,0
+1,Aguascalientes,58,1,0,0
+1,Aguascalientes,65,1,0,0
+1,Aguascalientes,67,1,0,0
+1,Aguascalientes,72,1,0,0
+1,Aguascalientes,72,1,0,0
+1,Aguascalientes,83,1,0,0
+1,Aguascalientes,90,1,0,0
+1,Aguascalientes,100,1,0,0
+1,Aguascalientes,102,1,0,0
+1,Aguascalientes,102,1,0,0
+1,Aguascalientes,102,1,0,0
+1,Aguascalientes,110,0,1,0
+1,Aguascalientes,113,0,1,0
+1,Aguascalientes,120,0,1,0
+1,Aguascalientes,120,0,1,0
+1,Aguascalientes,120,0,1,0
+1,Aguascalientes,123,0,1,0
+1,Aguascalientes,125,0,1,0
+1,Aguascalientes,126,0,1,0
+1,Aguascalientes,130,0,1,0
+1,Aguascalientes,134,0,1,0
+1,Aguascalientes,135,0,1,0
+1,Aguascalientes,142,0,1,0
+1,Aguascalientes,143,0,1,0
+1,Aguascalientes,149,0,1,0
+1,Aguascalientes,150,0,1,0
+1,Aguascalientes,150,0,1,0
+1,Aguascalientes,153,0,1,0
+1,Aguascalientes,155,0,1,0
+1,Aguascalientes,163,0,1,0
+1,Aguascalientes,167,0,1,0
+1,Aguascalientes,175,0,1,0
+1,Aguascalientes,188,0,1,0
+1,Aguascalientes,190,0,1,0
+1,Aguascalientes,197,0,1,0
+1,Aguascalientes,198,0,1,0
+1,Aguascalientes,200,0,1,0
+1,Aguascalientes,200,0,1,0
+1,Aguascalientes,200,0,1,0
+1,Aguascalientes,200,0,1,0
+1,Aguascalientes,201,0,1,0
+1,Aguascalientes,205,0,1,0
+1,Aguascalientes,223,0,1,0
+1,Aguascalientes,229,0,0,1
+1,Aguascalientes,232,0,0,1
+1,Aguascalientes,240,0,0,1
+1,Aguascalientes,241,0,0,1
+1,Aguascalientes,247,0,0,1
+1,Aguascalientes,250,0,0,1
+1,Aguascalientes,250,0,0,1
+1,Aguascalientes,261,0,0,1
+1,Aguascalientes,267,0,0,1
+1,Aguascalientes,280,0,0,1
+1,Aguascalientes,286,0,0,1
+1,Aguascalientes,300,0,0,1
+1,Aguascalientes,300,0,0,1
+1,Aguascalientes,300,0,0,1
+1,Aguascalientes,320,0,0,1
+1,Aguascalientes,504,0,0,1
+2,Baja California,120,1,0,0
+2,Baja California,128,1,0,0
+2,Baja California,130,1,0,0
+2,Baja California,150,1,0,0
+2,Baja California,152,1,0,0
+2,Baja California,168,1,0,0
+2,Baja California,170,1,0,0
+2,Baja California,190,1,0,0
+2,Baja California,200,0,1,0
+2,Baja California,200,0,1,0
+2,Baja California,200,0,1,0
+2,Baja California,200,0,1,0
+2,Baja California,230,0,1,0
+2,Baja California,250,0,1,0
+2,Baja California,250,0,1,0
+2,Baja California,264,0,1,0
+2,Baja California,270,0,1,0
+2,Baja California,280,0,1,0
+2,Baja California,300,0,1,0
+2,Baja California,300,0,1,0
+2,Baja California,301,0,1,0
+2,Baja California,350,0,1,0
+2,Baja California,390,0,1,0
+2,Baja California,400,0,0,1
+2,Baja California,400,0,0,1
+2,Baja California,400,0,0,1
+2,Baja California,500,0,0,1
+2,Baja California,550,0,0,1
+2,Baja California,550,0,0,1
+2,Baja California,569,0,0,1
+2,Baja California,600,0,0,1
+2,Baja California,600,0,0,1
+3,Baja California Sur,43,1,0,0
+3,Baja California Sur,46,1,0,0
+3,Baja California Sur,46,1,0,0
+3,Baja California Sur,46,1,0,0
+3,Baja California Sur,50,1,0,0
+3,Baja California Sur,60,1,0,0
+3,Baja California Sur,70,1,0,0
+3,Baja California Sur,75,1,0,0
+3,Baja California Sur,97,1,0,0
+3,Baja California Sur,100,1,0,0
+3,Baja California Sur,100,1,0,0
+3,Baja California Sur,100,1,0,0
+3,Baja California Sur,100,1,0,0
+3,Baja California Sur,130,1,0,0
+3,Baja California Sur,140,1,0,0
+3,Baja California Sur,145,1,0,0
+3,Baja California Sur,150,1,0,0
+3,Baja California Sur,150,1,0,0
+3,Baja California Sur,150,1,0,0
+3,Baja California Sur,150,1,0,0
+3,Baja California Sur,160,0,1,0
+3,Baja California Sur,160,0,1,0
+3,Baja California Sur,160,0,1,0
+3,Baja California Sur,162,0,1,0
+3,Baja California Sur,163,0,1,0
+3,Baja California Sur,178,0,1,0
+3,Baja California Sur,183,0,1,0
+3,Baja California Sur,195,0,1,0
+3,Baja California Sur,200,0,1,0
+3,Baja California Sur,200,0,1,0
+3,Baja California Sur,200,0,1,0
+3,Baja California Sur,200,0,1,0
+3,Baja California Sur,200,0,1,0
+3,Baja California Sur,200,0,1,0
+3,Baja California Sur,200,0,1,0
+3,Baja California Sur,200,0,1,0
+3,Baja California Sur,200,0,1,0
+3,Baja California Sur,200,0,1,0
+3,Baja California Sur,217,0,1,0
+3,Baja California Sur,260,0,1,0
+3,Baja California Sur,295,0,1,0
+3,Baja California Sur,300,0,1,0
+3,Baja California Sur,300,0,1,0
+3,Baja California Sur,300,0,1,0
+3,Baja California Sur,300,0,1,0
+3,Baja California Sur,300,0,1,0
+3,Baja California Sur,307,0,1,0
+3,Baja California Sur,320,0,1,0
+3,Baja California Sur,350,0,1,0
+3,Baja California Sur,350,0,1,0
+3,Baja California Sur,380,0,0,1
+3,Baja California Sur,380,0,0,1
+3,Baja California Sur,400,0,0,1
+3,Baja California Sur,400,0,0,1
+3,Baja California Sur,406,0,0,1
+3,Baja California Sur,480,0,0,1
+3,Baja California Sur,500,0,0,1
+3,Baja California Sur,600,0,0,1
+3,Baja California Sur,600,0,0,1
+3,Baja California Sur,600,0,0,1
+3,Baja California Sur,600,0,0,1
+3,Baja California Sur,600,0,0,1
+3,Baja California Sur,650,0,0,1
+3,Baja California Sur,650,0,0,1
+3,Baja California Sur,700,0,0,1
+3,Baja California Sur,830,0,0,1
+3,Baja California Sur,872,0,0,1
+3,Baja California Sur,1200,0,0,1
+4,Campeche,46,1,0,0
+4,Campeche,48,1,0,0
+4,Campeche,80,1,0,0
+4,Campeche,120,1,0,0
+4,Campeche,120,1,0,0
+4,Campeche,150,1,0,0
+4,Campeche,155,1,0,0
+4,Campeche,200,1,0,0
+4,Campeche,200,1,0,0
+4,Campeche,213,0,1,0
+4,Campeche,240,0,1,0
+4,Campeche,250,0,1,0
+4,Campeche,250,0,1,0
+4,Campeche,254,0,1,0
+4,Campeche,260,0,1,0
+4,Campeche,270,0,1,0
+4,Campeche,275,0,1,0
+4,Campeche,280,0,1,0
+4,Campeche,289,0,1,0
+4,Campeche,300,0,1,0
+4,Campeche,317,0,1,0
+4,Campeche,320,0,1,0
+4,Campeche,330,0,0,1
+4,Campeche,400,0,0,1
+4,Campeche,450,0,0,1
+4,Campeche,500,0,0,1
+4,Campeche,520,0,0,1
+4,Campeche,700,0,0,1
+4,Campeche,700,0,0,1
+4,Campeche,1500,0,0,1
+5,Coahuila,68,1,0,0
+5,Coahuila,80,1,0,0
+5,Coahuila,95,1,0,0
+5,Coahuila,100,1,0,0
+5,Coahuila,104,1,0,0
+5,Coahuila,106,1,0,0
+5,Coahuila,117,1,0,0
+5,Coahuila,120,1,0,0
+5,Coahuila,130,0,1,0
+5,Coahuila,150,0,1,0
+5,Coahuila,180,0,1,0
+5,Coahuila,180,0,1,0
+5,Coahuila,200,0,1,0
+5,Coahuila,210,0,1,0
+5,Coahuila,220,0,1,0
+5,Coahuila,220,0,1,0
+5,Coahuila,220,0,1,0
+5,Coahuila,230,0,1,0
+5,Coahuila,230,0,1,0
+5,Coahuila,250,0,1,0
+5,Coahuila,250,0,1,0
+5,Coahuila,270,0,1,0
+5,Coahuila,280,0,1,0
+5,Coahuila,300,0,1,0
+5,Coahuila,400,0,0,1
+5,Coahuila,500,0,0,1
+5,Coahuila,500,0,0,1
+5,Coahuila,500,0,0,1
+5,Coahuila,700,0,0,1
+5,Coahuila,700,0,0,1
+5,Coahuila,980,0,0,1
+5,Coahuila,1000,0,0,1
+6,Colima,49,1,0,0
+6,Colima,50,1,0,0
+6,Colima,51,1,0,0
+6,Colima,78,1,0,0
+6,Colima,85,1,0,0
+6,Colima,90,1,0,0
+6,Colima,96,1,0,0
+6,Colima,100,1,0,0
+6,Colima,100,1,0,0
+6,Colima,105,1,0,0
+6,Colima,105,1,0,0
+6,Colima,116,1,0,0
+6,Colima,118,1,0,0
+6,Colima,120,1,0,0
+6,Colima,125,1,0,0
+6,Colima,128,0,1,0
+6,Colima,130,0,1,0
+6,Colima,130,0,1,0
+6,Colima,131,0,1,0
+6,Colima,135,0,1,0
+6,Colima,140,0,1,0
+6,Colima,140,0,1,0
+6,Colima,147,0,1,0
+6,Colima,150,0,1,0
+6,Colima,150,0,1,0
+6,Colima,151,0,1,0
+6,Colima,153,0,1,0
+6,Colima,154,0,1,0
+6,Colima,160,0,1,0
+6,Colima,162,0,1,0
+6,Colima,166,0,1,0
+6,Colima,168,0,1,0
+6,Colima,175,0,1,0
+6,Colima,190,0,1,0
+6,Colima,190,0,1,0
+6,Colima,190,0,1,0
+6,Colima,198,0,1,0
+6,Colima,200,0,1,0
+6,Colima,200,0,1,0
+6,Colima,220,0,1,0
+6,Colima,230,0,1,0
+6,Colima,245,0,1,0
+6,Colima,250,0,0,1
+6,Colima,250,0,0,1
+6,Colima,270,0,0,1
+6,Colima,280,0,0,1
+6,Colima,280,0,0,1
+6,Colima,289,0,0,1
+6,Colima,323,0,0,1
+6,Colima,342,0,0,1
+6,Colima,380,0,0,1
+6,Colima,436,0,0,1
+6,Colima,500,0,0,1
+6,Colima,500,0,0,1
+6,Colima,543,0,0,1
+6,Colima,700,0,0,1
+6,Colima,700,0,0,1
+6,Colima,700,0,0,1
+7,Chiapas,30,1,0,0
+7,Chiapas,45,1,0,0
+7,Chiapas,47,1,0,0
+7,Chiapas,55,1,0,0
+7,Chiapas,60,1,0,0
+7,Chiapas,70,1,0,0
+7,Chiapas,75,1,0,0
+7,Chiapas,75,1,0,0
+7,Chiapas,78,1,0,0
+7,Chiapas,80,1,0,0
+7,Chiapas,115,1,0,0
+7,Chiapas,115,1,0,0
+7,Chiapas,168,1,0,0
+7,Chiapas,200,1,0,0
+7,Chiapas,200,1,0,0
+7,Chiapas,294,0,1,0
+7,Chiapas,300,0,1,0
+7,Chiapas,300,0,1,0
+7,Chiapas,425,0,0,1
+7,Chiapas,550,0,0,1
+8,Chihuahua,83,1,0,0
+8,Chihuahua,106,1,0,0
+8,Chihuahua,129,1,0,0
+8,Chihuahua,130,1,0,0
+8,Chihuahua,135,1,0,0
+8,Chihuahua,145,1,0,0
+8,Chihuahua,150,1,0,0
+8,Chihuahua,156,1,0,0
+8,Chihuahua,168,0,1,0
+8,Chihuahua,171,0,1,0
+8,Chihuahua,180,0,1,0
+8,Chihuahua,200,0,1,0
+8,Chihuahua,200,0,1,0
+8,Chihuahua,200,0,1,0
+8,Chihuahua,210,0,1,0
+8,Chihuahua,220,0,1,0
+8,Chihuahua,235,0,1,0
+8,Chihuahua,250,0,1,0
+8,Chihuahua,260,0,1,0
+8,Chihuahua,270,0,1,0
+8,Chihuahua,283,0,1,0
+8,Chihuahua,300,0,1,0
+8,Chihuahua,342,0,0,1
+8,Chihuahua,384,0,0,1
+8,Chihuahua,420,0,0,1
+8,Chihuahua,430,0,0,1
+8,Chihuahua,600,0,0,1
+8,Chihuahua,650,0,0,1
+8,Chihuahua,900,0,0,1
+8,Chihuahua,1000,0,0,1
+9,Ciudad de Mexico,50,1,0,0
+9,Ciudad de Mexico,56,1,0,0
+9,Ciudad de Mexico,57,1,0,0
+9,Ciudad de Mexico,60,1,0,0
+9,Ciudad de Mexico,75,1,0,0
+9,Ciudad de Mexico,78,1,0,0
+9,Ciudad de Mexico,80,1,0,0
+9,Ciudad de Mexico,80,1,0,0
+9,Ciudad de Mexico,80,1,0,0
+9,Ciudad de Mexico,83,1,0,0
+9,Ciudad de Mexico,85,1,0,0
+9,Ciudad de Mexico,100,0,1,0
+9,Ciudad de Mexico,100,0,1,0
+9,Ciudad de Mexico,100,0,1,0
+9,Ciudad de Mexico,100,0,1,0
+9,Ciudad de Mexico,100,0,1,0
+9,Ciudad de Mexico,110,0,1,0
+9,Ciudad de Mexico,120,0,1,0
+9,Ciudad de Mexico,120,0,1,0
+9,Ciudad de Mexico,130,0,1,0
+9,Ciudad de Mexico,140,0,1,0
+9,Ciudad de Mexico,150,0,1,0
+9,Ciudad de Mexico,150,0,1,0
+9,Ciudad de Mexico,200,0,1,0
+9,Ciudad de Mexico,200,0,1,0
+9,Ciudad de Mexico,200,0,1,0
+9,Ciudad de Mexico,200,0,1,0
+9,Ciudad de Mexico,200,0,1,0
+9,Ciudad de Mexico,200,0,1,0
+9,Ciudad de Mexico,200,0,1,0
+9,Ciudad de Mexico,200,0,1,0
+9,Ciudad de Mexico,200,0,1,0
+9,Ciudad de Mexico,230,0,0,1
+9,Ciudad de Mexico,250,0,0,1
+9,Ciudad de Mexico,250,0,0,1
+9,Ciudad de Mexico,300,0,0,1
+9,Ciudad de Mexico,360,0,0,1
+9,Ciudad de Mexico,395,0,0,1
+9,Ciudad de Mexico,400,0,0,1
+9,Ciudad de Mexico,450,0,0,1
+9,Ciudad de Mexico,500,0,0,1
+9,Ciudad de Mexico,594,0,0,1
+9,Ciudad de Mexico,700,0,0,1
+10,Durango,43,1,0,0
+10,Durango,44,1,0,0
+10,Durango,48,1,0,0
+10,Durango,49,1,0,0
+10,Durango,50,1,0,0
+10,Durango,50,1,0,0
+10,Durango,50,1,0,0
+10,Durango,52,1,0,0
+10,Durango,53,1,0,0
+10,Durango,60,1,0,0
+10,Durango,60,1,0,0
+10,Durango,70,1,0,0
+10,Durango,70,1,0,0
+10,Durango,70,1,0,0
+10,Durango,78,0,1,0
+10,Durango,82,0,1,0
+10,Durango,88,0,1,0
+10,Durango,96,0,1,0
+10,Durango,100,0,1,0
+10,Durango,100,0,1,0
+10,Durango,105,0,1,0
+10,Durango,110,0,1,0
+10,Durango,120,0,1,0
+10,Durango,120,0,1,0
+10,Durango,123,0,1,0
+10,Durango,140,0,1,0
+10,Durango,150,0,1,0
+10,Durango,163,0,1,0
+10,Durango,165,0,1,0
+10,Durango,170,0,1,0
+10,Durango,190,0,1,0
+10,Durango,200,0,1,0
+10,Durango,200,0,1,0
+10,Durango,220,0,1,0
+10,Durango,222,0,0,1
+10,Durango,250,0,0,1
+10,Durango,259,0,0,1
+10,Durango,300,0,0,1
+10,Durango,340,0,0,1
+10,Durango,348,0,0,1
+10,Durango,400,0,0,1
+10,Durango,450,0,0,1
+10,Durango,500,0,0,1
+10,Durango,600,0,0,1
+10,Durango,780,0,0,1
+10,Durango,900,0,0,1
+11,Guanajuato,50,1,0,0
+11,Guanajuato,98,1,0,0
+11,Guanajuato,99,1,0,0
+11,Guanajuato,100,1,0,0
+11,Guanajuato,115,1,0,0
+11,Guanajuato,115,1,0,0
+11,Guanajuato,125,1,0,0
+11,Guanajuato,130,0,1,0
+11,Guanajuato,130,0,1,0
+11,Guanajuato,140,0,1,0
+11,Guanajuato,150,0,1,0
+11,Guanajuato,150,0,1,0
+11,Guanajuato,150,0,1,0
+11,Guanajuato,200,0,1,0
+11,Guanajuato,200,0,1,0
+11,Guanajuato,200,0,1,0
+11,Guanajuato,210,0,1,0
+11,Guanajuato,230,0,1,0
+11,Guanajuato,250,0,0,1
+11,Guanajuato,250,0,0,1
+11,Guanajuato,290,0,0,1
+11,Guanajuato,300,0,0,1
+11,Guanajuato,300,0,0,1
+11,Guanajuato,300,0,0,1
+11,Guanajuato,400,0,0,1
+11,Guanajuato,400,0,0,1
+12,Guerrero,98,1,0,0
+12,Guerrero,100,1,0,0
+12,Guerrero,160,1,0,0
+12,Guerrero,180,1,0,0
+12,Guerrero,182,1,0,0
+12,Guerrero,190,0,1,0
+12,Guerrero,200,0,1,0
+12,Guerrero,215,0,1,0
+12,Guerrero,244,0,1,0
+12,Guerrero,250,0,1,0
+12,Guerrero,260,0,1,0
+12,Guerrero,276,0,1,0
+12,Guerrero,300,0,0,1
+12,Guerrero,300,0,0,1
+12,Guerrero,320,0,0,1
+12,Guerrero,350,0,0,1
+12,Guerrero,443,0,0,1
+12,Guerrero,500,0,0,1
+13,Hidalgo,45,1,0,0
+13,Hidalgo,45,1,0,0
+13,Hidalgo,70,1,0,0
+13,Hidalgo,90,1,0,0
+13,Hidalgo,103,0,1,0
+13,Hidalgo,115,0,1,0
+13,Hidalgo,148,0,1,0
+13,Hidalgo,165,0,1,0
+13,Hidalgo,170,0,1,0
+13,Hidalgo,200,0,0,1
+13,Hidalgo,220,0,0,1
+13,Hidalgo,300,0,0,1
+13,Hidalgo,300,0,0,1
+14,Jalisco,46,1,0,0
+14,Jalisco,50,1,0,0
+14,Jalisco,90,1,0,0
+14,Jalisco,96,1,0,0
+14,Jalisco,96,1,0,0
+14,Jalisco,110,0,1,0
+14,Jalisco,120,0,1,0
+14,Jalisco,137,0,1,0
+14,Jalisco,150,0,1,0
+14,Jalisco,151,0,1,0
+14,Jalisco,180,0,1,0
+14,Jalisco,200,0,0,1
+14,Jalisco,200,0,0,1
+14,Jalisco,240,0,0,1
+14,Jalisco,240,0,0,1
+14,Jalisco,350,0,0,1
+15,Estado de Mexico,36,1,0,0
+15,Estado de Mexico,50,1,0,0
+15,Estado de Mexico,50,1,0,0
+15,Estado de Mexico,50,1,0,0
+15,Estado de Mexico,50,1,0,0
+15,Estado de Mexico,50,1,0,0
+15,Estado de Mexico,52,1,0,0
+15,Estado de Mexico,60,1,0,0
+15,Estado de Mexico,67,0,1,0
+15,Estado de Mexico,70,0,1,0
+15,Estado de Mexico,96,0,1,0
+15,Estado de Mexico,110,0,1,0
+15,Estado de Mexico,116,0,1,0
+15,Estado de Mexico,122,0,1,0
+15,Estado de Mexico,129,0,1,0
+15,Estado de Mexico,143,0,1,0
+15,Estado de Mexico,150,0,1,0
+15,Estado de Mexico,150,0,1,0
+15,Estado de Mexico,162,0,1,0
+15,Estado de Mexico,170,0,1,0
+15,Estado de Mexico,208,0,1,0
+15,Estado de Mexico,220,0,1,0
+15,Estado de Mexico,249,0,1,0
+15,Estado de Mexico,250,0,0,1
+15,Estado de Mexico,250,0,0,1
+15,Estado de Mexico,250,0,0,1
+15,Estado de Mexico,270,0,0,1
+15,Estado de Mexico,280,0,0,1
+15,Estado de Mexico,367,0,0,1
+15,Estado de Mexico,380,0,0,1
+15,Estado de Mexico,599,0,0,1
+16,Michoacan,50,1,0,0
+16,Michoacan,50,1,0,0
+16,Michoacan,52,1,0,0
+16,Michoacan,52,1,0,0
+16,Michoacan,53,1,0,0
+16,Michoacan,53,1,0,0
+16,Michoacan,55,1,0,0
+16,Michoacan,55,1,0,0
+16,Michoacan,55,1,0,0
+16,Michoacan,56,0,1,0
+16,Michoacan,60,0,1,0
+16,Michoacan,60,0,1,0
+16,Michoacan,60,0,1,0
+16,Michoacan,65,0,1,0
+16,Michoacan,80,0,1,0
+16,Michoacan,90,0,1,0
+16,Michoacan,90,0,1,0
+16,Michoacan,100,0,1,0
+16,Michoacan,120,0,1,0
+16,Michoacan,125,0,1,0
+16,Michoacan,138,0,1,0
+16,Michoacan,140,0,1,0
+16,Michoacan,147,0,1,0
+16,Michoacan,150,0,0,1
+16,Michoacan,150,0,0,1
+16,Michoacan,170,0,0,1
+16,Michoacan,180,0,0,1
+16,Michoacan,180,0,0,1
+16,Michoacan,190,0,0,1
+16,Michoacan,200,0,0,1
+16,Michoacan,266,0,0,1
+16,Michoacan,280,0,0,1
+16,Michoacan,300,0,0,1
+17,Morelos,48,1,0,0
+17,Morelos,50,1,0,0
+17,Morelos,55,1,0,0
+17,Morelos,55,1,0,0
+17,Morelos,60,1,0,0
+17,Morelos,60,1,0,0
+17,Morelos,60,1,0,0
+17,Morelos,85,1,0,0
+17,Morelos,90,1,0,0
+17,Morelos,100,0,1,0
+17,Morelos,100,0,1,0
+17,Morelos,120,0,1,0
+17,Morelos,134,0,1,0
+17,Morelos,170,0,1,0
+17,Morelos,177,0,1,0
+17,Morelos,185,0,1,0
+17,Morelos,186,0,1,0
+17,Morelos,190,0,1,0
+17,Morelos,191,0,1,0
+17,Morelos,200,0,1,0
+17,Morelos,200,0,1,0
+17,Morelos,200,0,1,0
+17,Morelos,230,0,1,0
+17,Morelos,250,0,1,0
+17,Morelos,250,0,1,0
+17,Morelos,263,0,0,1
+17,Morelos,270,0,0,1
+17,Morelos,280,0,0,1
+17,Morelos,300,0,0,1
+17,Morelos,300,0,0,1
+17,Morelos,404,0,0,1
+17,Morelos,458,0,0,1
+17,Morelos,500,0,0,1
+17,Morelos,600,0,0,1
+18,Nayarit,44,1,0,0
+18,Nayarit,46,1,0,0
+18,Nayarit,49,1,0,0
+18,Nayarit,50,1,0,0
+18,Nayarit,52,1,0,0
+18,Nayarit,55,1,0,0
+18,Nayarit,57,1,0,0
+18,Nayarit,60,1,0,0
+18,Nayarit,70,1,0,0
+18,Nayarit,95,1,0,0
+18,Nayarit,95,1,0,0
+18,Nayarit,98,1,0,0
+18,Nayarit,110,0,1,0
+18,Nayarit,114,0,1,0
+18,Nayarit,120,0,1,0
+18,Nayarit,120,0,1,0
+18,Nayarit,120,0,1,0
+18,Nayarit,120,0,1,0
+18,Nayarit,125,0,1,0
+18,Nayarit,136,0,1,0
+18,Nayarit,140,0,1,0
+18,Nayarit,150,0,1,0
+18,Nayarit,152,0,1,0
+18,Nayarit,160,0,1,0
+18,Nayarit,180,0,1,0
+18,Nayarit,180,0,1,0
+18,Nayarit,200,0,1,0
+18,Nayarit,200,0,1,0
+18,Nayarit,200,0,1,0
+18,Nayarit,220,0,1,0
+18,Nayarit,250,0,1,0
+18,Nayarit,250,0,1,0
+18,Nayarit,250,0,1,0
+18,Nayarit,260,0,0,1
+18,Nayarit,285,0,0,1
+18,Nayarit,298,0,0,1
+18,Nayarit,300,0,0,1
+18,Nayarit,300,0,0,1
+18,Nayarit,340,0,0,1
+18,Nayarit,345,0,0,1
+18,Nayarit,398,0,0,1
+18,Nayarit,400,0,0,1
+18,Nayarit,400,0,0,1
+18,Nayarit,800,0,0,1
+18,Nayarit,800,0,0,1
+19,Nuevo Leon,40,1,0,0
+19,Nuevo Leon,95,1,0,0
+19,Nuevo Leon,120,1,0,0
+19,Nuevo Leon,120,1,0,0
+19,Nuevo Leon,132,1,0,0
+19,Nuevo Leon,140,1,0,0
+19,Nuevo Leon,150,1,0,0
+19,Nuevo Leon,150,1,0,0
+19,Nuevo Leon,160,0,1,0
+19,Nuevo Leon,180,0,1,0
+19,Nuevo Leon,186,0,1,0
+19,Nuevo Leon,196,0,1,0
+19,Nuevo Leon,200,0,1,0
+19,Nuevo Leon,280,0,1,0
+19,Nuevo Leon,284,0,1,0
+19,Nuevo Leon,290,0,1,0
+19,Nuevo Leon,300,0,1,0
+19,Nuevo Leon,300,0,1,0
+19,Nuevo Leon,300,0,1,0
+19,Nuevo Leon,300,0,1,0
+19,Nuevo Leon,300,0,1,0
+19,Nuevo Leon,323,0,0,1
+19,Nuevo Leon,360,0,0,1
+19,Nuevo Leon,400,0,0,1
+19,Nuevo Leon,400,0,0,1
+19,Nuevo Leon,480,0,0,1
+19,Nuevo Leon,500,0,0,1
+19,Nuevo Leon,600,0,0,1
+19,Nuevo Leon,800,0,0,1
+20,Oaxaca,49,1,0,0
+20,Oaxaca,53,1,0,0
+20,Oaxaca,80,1,0,0
+20,Oaxaca,100,0,1,0
+20,Oaxaca,120,0,1,0
+20,Oaxaca,120,0,1,0
+20,Oaxaca,160,0,0,1
+20,Oaxaca,300,0,0,1
+20,Oaxaca,300,0,0,1
+21,Puebla,110,1,0,0
+21,Puebla,120,0,1,0
+21,Puebla,500,0,0,1
+22,Queretaro,95,1,0,0
+22,Queretaro,98,1,0,0
+22,Queretaro,100,1,0,0
+22,Queretaro,120,0,1,0
+22,Queretaro,120,0,1,0
+22,Queretaro,180,0,1,0
+22,Queretaro,180,0,1,0
+22,Queretaro,220,0,1,0
+22,Queretaro,300,0,0,1
+22,Queretaro,363,0,0,1
+22,Queretaro,400,0,0,1
+23,Quintana Roo,27,1,0,0
+23,Quintana Roo,45,1,0,0
+23,Quintana Roo,52,1,0,0
+23,Quintana Roo,68,1,0,0
+23,Quintana Roo,70,1,0,0
+23,Quintana Roo,80,1,0,0
+23,Quintana Roo,80,1,0,0
+23,Quintana Roo,89,1,0,0
+23,Quintana Roo,100,1,0,0
+23,Quintana Roo,100,1,0,0
+23,Quintana Roo,100,1,0,0
+23,Quintana Roo,100,1,0,0
+23,Quintana Roo,100,1,0,0
+23,Quintana Roo,100,1,0,0
+23,Quintana Roo,103,1,0,0
+23,Quintana Roo,103,1,0,0
+23,Quintana Roo,120,1,0,0
+23,Quintana Roo,140,1,0,0
+23,Quintana Roo,145,1,0,0
+23,Quintana Roo,146,1,0,0
+23,Quintana Roo,147,0,1,0
+23,Quintana Roo,150,0,1,0
+23,Quintana Roo,150,0,1,0
+23,Quintana Roo,150,0,1,0
+23,Quintana Roo,155,0,1,0
+23,Quintana Roo,170,0,1,0
+23,Quintana Roo,180,0,1,0
+23,Quintana Roo,200,0,1,0
+23,Quintana Roo,200,0,1,0
+23,Quintana Roo,200,0,1,0
+23,Quintana Roo,200,0,1,0
+23,Quintana Roo,200,0,1,0
+23,Quintana Roo,200,0,1,0
+23,Quintana Roo,200,0,1,0
+23,Quintana Roo,200,0,1,0
+23,Quintana Roo,200,0,1,0
+23,Quintana Roo,200,0,1,0
+23,Quintana Roo,207,0,1,0
+23,Quintana Roo,210,0,1,0
+23,Quintana Roo,220,0,1,0
+23,Quintana Roo,230,0,1,0
+23,Quintana Roo,235,0,1,0
+23,Quintana Roo,240,0,1,0
+23,Quintana Roo,250,0,1,0
+23,Quintana Roo,250,0,1,0
+23,Quintana Roo,250,0,1,0
+23,Quintana Roo,250,0,1,0
+23,Quintana Roo,260,0,1,0
+23,Quintana Roo,260,0,1,0
+23,Quintana Roo,270,0,1,0
+23,Quintana Roo,275,0,1,0
+23,Quintana Roo,280,0,1,0
+23,Quintana Roo,283,0,1,0
+23,Quintana Roo,288,0,1,0
+23,Quintana Roo,293,0,1,0
+23,Quintana Roo,300,0,0,1
+23,Quintana Roo,300,0,0,1
+23,Quintana Roo,300,0,0,1
+23,Quintana Roo,300,0,0,1
+23,Quintana Roo,300,0,0,1
+23,Quintana Roo,302,0,0,1
+23,Quintana Roo,320,0,0,1
+23,Quintana Roo,320,0,0,1
+23,Quintana Roo,332,0,0,1
+23,Quintana Roo,350,0,0,1
+23,Quintana Roo,365,0,0,1
+23,Quintana Roo,380,0,0,1
+23,Quintana Roo,400,0,0,1
+23,Quintana Roo,410,0,0,1
+23,Quintana Roo,490,0,0,1
+23,Quintana Roo,500,0,0,1
+23,Quintana Roo,500,0,0,1
+23,Quintana Roo,530,0,0,1
+23,Quintana Roo,600,0,0,1
+23,Quintana Roo,795,0,0,1
+23,Quintana Roo,1200,0,0,1
+23,Quintana Roo,1200,0,0,1
+24,San Luis Potosi,87,1,0,0
+24,San Luis Potosi,120,1,0,0
+24,San Luis Potosi,150,1,0,0
+24,San Luis Potosi,150,1,0,0
+24,San Luis Potosi,160,0,1,0
+24,San Luis Potosi,176,0,1,0
+24,San Luis Potosi,180,0,1,0
+24,San Luis Potosi,185,0,1,0
+24,San Luis Potosi,250,0,1,0
+24,San Luis Potosi,296,0,0,1
+24,San Luis Potosi,400,0,0,1
+24,San Luis Potosi,500,0,0,1
+25,Sinaloa,47,1,0,0
+25,Sinaloa,50,1,0,0
+25,Sinaloa,53,1,0,0
+25,Sinaloa,55,1,0,0
+25,Sinaloa,102,1,0,0
+25,Sinaloa,110,1,0,0
+25,Sinaloa,112,1,0,0
+25,Sinaloa,115,1,0,0
+25,Sinaloa,115,1,0,0
+25,Sinaloa,120,0,1,0
+25,Sinaloa,120,0,1,0
+25,Sinaloa,128,0,1,0
+25,Sinaloa,140,0,1,0
+25,Sinaloa,156,0,1,0
+25,Sinaloa,157,0,1,0
+25,Sinaloa,180,0,1,0
+25,Sinaloa,185,0,1,0
+25,Sinaloa,200,0,1,0
+25,Sinaloa,230,0,1,0
+25,Sinaloa,290,0,1,0
+25,Sinaloa,320,0,1,0
+25,Sinaloa,328,0,0,1
+25,Sinaloa,338,0,0,1
+25,Sinaloa,350,0,0,1
+25,Sinaloa,400,0,0,1
+25,Sinaloa,470,0,0,1
+25,Sinaloa,500,0,0,1
+25,Sinaloa,850,0,0,1
+25,Sinaloa,880,0,0,1
+26,Sonora,56,1,0,0
+26,Sonora,70,1,0,0
+26,Sonora,71,1,0,0
+26,Sonora,80,1,0,0
+26,Sonora,110,1,0,0
+26,Sonora,131,1,0,0
+26,Sonora,138,1,0,0
+26,Sonora,150,0,1,0
+26,Sonora,160,0,1,0
+26,Sonora,170,0,1,0
+26,Sonora,180,0,1,0
+26,Sonora,230,0,1,0
+26,Sonora,230,0,1,0
+26,Sonora,230,0,1,0
+26,Sonora,250,0,1,0
+26,Sonora,260,0,1,0
+26,Sonora,299,0,1,0
+26,Sonora,350,0,1,0
+26,Sonora,450,0,1,0
+26,Sonora,480,0,1,0
+26,Sonora,485,0,1,0
+26,Sonora,500,0,0,1
+26,Sonora,500,0,0,1
+26,Sonora,721,0,0,1
+26,Sonora,800,0,0,1
+26,Sonora,900,0,0,1
+26,Sonora,1200,0,0,1
+26,Sonora,1559,0,0,1
+27,Tabasco,42,1,0,0
+27,Tabasco,44,1,0,0
+27,Tabasco,45,1,0,0
+27,Tabasco,58,1,0,0
+27,Tabasco,115,1,0,0
+27,Tabasco,120,1,0,0
+27,Tabasco,130,1,0,0
+27,Tabasco,145,1,0,0
+27,Tabasco,150,0,1,0
+27,Tabasco,153,0,1,0
+27,Tabasco,160,0,1,0
+27,Tabasco,160,0,1,0
+27,Tabasco,180,0,1,0
+27,Tabasco,193,0,1,0
+27,Tabasco,200,0,1,0
+27,Tabasco,220,0,1,0
+27,Tabasco,280,0,1,0
+27,Tabasco,300,0,1,0
+27,Tabasco,300,0,1,0
+27,Tabasco,300,0,1,0
+27,Tabasco,320,0,1,0
+27,Tabasco,350,0,1,0
+27,Tabasco,388,0,1,0
+27,Tabasco,404,0,1,0
+27,Tabasco,470,0,0,1
+27,Tabasco,480,0,0,1
+27,Tabasco,600,0,0,1
+27,Tabasco,600,0,0,1
+27,Tabasco,900,0,0,1
+27,Tabasco,1200,0,0,1
+27,Tabasco,1200,0,0,1
+27,Tabasco,1400,0,0,1
+28,Tamaulipas,29,1,0,0
+28,Tamaulipas,45,1,0,0
+28,Tamaulipas,48,1,0,0
+28,Tamaulipas,54,1,0,0
+28,Tamaulipas,60,1,0,0
+28,Tamaulipas,75,1,0,0
+28,Tamaulipas,118,1,0,0
+28,Tamaulipas,126,1,0,0
+28,Tamaulipas,130,1,0,0
+28,Tamaulipas,150,0,1,0
+28,Tamaulipas,150,0,1,0
+28,Tamaulipas,180,0,1,0
+28,Tamaulipas,190,0,1,0
+28,Tamaulipas,190,0,1,0
+28,Tamaulipas,193,0,1,0
+28,Tamaulipas,200,0,1,0
+28,Tamaulipas,200,0,1,0
+28,Tamaulipas,300,0,1,0
+28,Tamaulipas,300,0,1,0
+28,Tamaulipas,300,0,1,0
+28,Tamaulipas,330,0,1,0
+28,Tamaulipas,351,0,1,0
+28,Tamaulipas,366,0,1,0
+28,Tamaulipas,380,0,1,0
+28,Tamaulipas,400,0,0,1
+28,Tamaulipas,400,0,0,1
+28,Tamaulipas,440,0,0,1
+28,Tamaulipas,500,0,0,1
+28,Tamaulipas,600,0,0,1
+28,Tamaulipas,700,0,0,1
+28,Tamaulipas,800,0,0,1
+28,Tamaulipas,1200,0,0,1
+28,Tamaulipas,1205,0,0,1
+29,Tlaxcala,47,1,0,0
+29,Tlaxcala,49,1,0,0
+29,Tlaxcala,50,1,0,0
+29,Tlaxcala,50,1,0,0
+29,Tlaxcala,80,0,1,0
+29,Tlaxcala,100,0,1,0
+29,Tlaxcala,100,0,1,0
+29,Tlaxcala,124,0,1,0
+29,Tlaxcala,132,0,1,0
+29,Tlaxcala,135,0,1,0
+29,Tlaxcala,140,0,1,0
+29,Tlaxcala,200,0,0,1
+29,Tlaxcala,200,0,0,1
+29,Tlaxcala,230,0,0,1
+29,Tlaxcala,400,0,0,1
+30,Veracruz,45,1,0,0
+30,Veracruz,70,1,0,0
+30,Veracruz,70,1,0,0
+30,Veracruz,100,1,0,0
+30,Veracruz,130,1,0,0
+30,Veracruz,148,0,1,0
+30,Veracruz,150,0,1,0
+30,Veracruz,200,0,1,0
+30,Veracruz,200,0,1,0
+30,Veracruz,220,0,1,0
+30,Veracruz,221,0,1,0
+30,Veracruz,234,0,1,0
+30,Veracruz,250,0,1,0
+30,Veracruz,270,0,1,0
+30,Veracruz,300,0,0,1
+30,Veracruz,310,0,0,1
+30,Veracruz,400,0,0,1
+30,Veracruz,540,0,0,1
+30,Veracruz,552,0,0,1
+31,Yucatan,43,1,0,0
+31,Yucatan,47,1,0,0
+31,Yucatan,47,1,0,0
+31,Yucatan,48,1,0,0
+31,Yucatan,50,1,0,0
+31,Yucatan,64,1,0,0
+31,Yucatan,100,1,0,0
+31,Yucatan,100,1,0,0
+31,Yucatan,127,1,0,0
+31,Yucatan,137,0,1,0
+31,Yucatan,150,0,1,0
+31,Yucatan,160,0,1,0
+31,Yucatan,180,0,1,0
+31,Yucatan,190,0,1,0
+31,Yucatan,200,0,1,0
+31,Yucatan,220,0,1,0
+31,Yucatan,230,0,1,0
+31,Yucatan,236,0,1,0
+31,Yucatan,258,0,1,0
+31,Yucatan,260,0,1,0
+31,Yucatan,300,0,1,0
+31,Yucatan,300,0,1,0
+31,Yucatan,320,0,1,0
+31,Yucatan,430,0,1,0
+31,Yucatan,465,0,1,0
+31,Yucatan,500,0,0,1
+31,Yucatan,500,0,0,1
+31,Yucatan,500,0,0,1
+31,Yucatan,540,0,0,1
+31,Yucatan,548,0,0,1
+31,Yucatan,550,0,0,1
+31,Yucatan,590,0,0,1
+31,Yucatan,824,0,0,1
+31,Yucatan,1031,0,0,1
+32,Zacatecas,50,1,0,0
+32,Zacatecas,50,1,0,0
+32,Zacatecas,56,1,0,0
+32,Zacatecas,59,1,0,0
+32,Zacatecas,60,0,1,0
+32,Zacatecas,100,0,1,0
+32,Zacatecas,102,0,1,0
+32,Zacatecas,105,0,1,0
+32,Zacatecas,120,0,1,0
+32,Zacatecas,130,0,1,0
+32,Zacatecas,150,0,0,1
+32,Zacatecas,200,0,0,1
+32,Zacatecas,250,0,0,1
+32,Zacatecas,300,0,0,1
